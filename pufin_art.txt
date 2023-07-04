@@ -1,0 +1,9 @@
+
+   _______   ____  ____   _______  __    _____  ___   
+  |   __ "\ ("  _||_ " | /"     "||" \  (\"   \|"  \  
+  (. |__) :)|   (  ) : |(: ______)||  | |.\\   \    |   - Version 1.0 (First Edition)
+  |:  ____/ (:  |  | . ) \/    |  |:  | |: \.   \\  |   - Powershell Universal File Integrity Nspector
+  (|  /      \\ \__/ //  // ___)  |.  | |.  \    \. |   - Copyright (c) 2023 by Durgesh Shah (@darkoid)
+ /|__/ \     /\\ __ //\ (:  (     /\  |\|    \    \ |   - Tested on Windows 10 Version 21H1 Build 19043
+(_______)   (__________) \__/    (__\_|_)\___|\____\) 
+

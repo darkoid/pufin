@@ -1,0 +1,31 @@
+**********************
+PowerShell transcript start
+Start time: 20230704050625
+Username: Durgeshs-MacBook-Air\durgesh
+RunAs User: Durgeshs-MacBook-Air\durgesh
+Configuration Name: 
+Machine: Durgeshs-MacBook-Air (Unix 12.6.5)
+Host Application: /usr/local/microsoft/powershell/7/pwsh.dll
+Process ID: 36540
+PSVersion: 7.3.4
+PSEdition: Core
+GitCommitId: 7.3.4
+OS: Darwin 21.6.0 Darwin Kernel Version 21.6.0: Thu Mar  9 20:08:59 PST 2023; root:xnu-8020.240.18.700.8~1/RELEASE_X86_64
+Platform: Unix
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.10032.0, 6.0.0, 6.1.0, 6.2.0, 7.0.0, 7.1.0, 7.2.0, 7.3.4
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+WSManStackVersion: 3.0
+**********************
+Transcript started, output file is PUFIN_Log.txt
+07/04/2023 05:06 +05:30: /Users/durgesh/Documents/CV/Projects/PUFIN - Powershell Universal File Integrity Nspector/testFolder/file 1.txt has been created!
+07/04/2023 05:06 +05:30: /Users/durgesh/Documents/CV/Projects/PUFIN - Powershell Universal File Integrity Nspector/testFolder/file 10.txt has been deleted!
+07/04/2023 05:06 +05:30: /Users/durgesh/Documents/CV/Projects/PUFIN - Powershell Universal File Integrity Nspector/testFolder/file 1.txt has been created!
+07/04/2023 05:06 +05:30: /Users/durgesh/Documents/CV/Projects/PUFIN - Powershell Universal File Integrity Nspector/testFolder/file 10.txt has been deleted!
+07/04/2023 05:06 +05:30: /Users/durgesh/Documents/CV/Projects/PUFIN - Powershell Universal File Integrity Nspector/testFolder/file 1.txt has been created!
+07/04/2023 05:06 +05:30: /Users/durgesh/Documents/CV/Projects/PUFIN - Powershell Universal File Integrity Nspector/testFolder/file 10.txt has been deleted!
+07/04/2023 05:06 +05:30: /Users/durgesh/Documents/CV/Projects/PUFIN - Powershell Universal File Integrity Nspector/testFolder/file2 3.txt has changed!!!
+07/04/2023 05:06 +05:30: /Users/durgesh/Documents/CV/Projects/PUFIN - Powershell Universal File Integrity Nspector/testFolder/file2 3.txt has changed!!!
+PS>TerminatingError(): "The pipeline has been stopped."
+>> TerminatingError(): "The pipeline has been stopped."
+>> TerminatingError(): "The pipeline has been stopped."

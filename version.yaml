@@ -1,0 +1,12 @@
+version:
+  pufin: 1.0
+  powershell: 5.x.x or higher
+
+changelog:
+  pufin: |
+    pufin::pufin.ps1
+      - Added: 
+      - Changed: 
+
+  powershell: |
+      - Updated: 

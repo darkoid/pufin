@@ -1,0 +1,9 @@
+Requirements
+============
+
+1. Powershell 5+
+2. OS: Windows/Linux/Mac
+3. RAM/Storage: Very minimal 
+
+
+TESTED ON BOTH MAC & WINDOWS. SHOULD WORK ON LINUX AS WELL.
