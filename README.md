@@ -2,7 +2,7 @@
 
 <p align="center"><img src="/docs/assets/pufin.png" alt="logo" /></p>
 
-[![Awesome](https://awesome.re/badge.svg)
+![Awesome](https://awesome.re/badge.svg)
 [![GitHub](https://img.shields.io/github/license/darkoid/pufin)](https://github.com/darkoid/pufin/blob/main/LICENSE)
 [![stable](http://badges.github.io/stability-badges/dist/stable.svg)](http://github.com/darkoid/pufin)
 [![Docs](https://img.shields.io/badge/Web-Docs-brightgreen)](https://documentation.achiefs.com/)
@@ -43,5 +43,5 @@ Solve only one problem in each pull request. If you're fixing a bug and adding a
 
 ### License
 
-Hydra is licensed under MIT License. Refer to [LICENSE](./LICENSE) for more information.
+PUFIN is licensed under MIT License. Refer to [LICENSE](./LICENSE) for more information.
 
