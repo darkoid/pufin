@@ -1,7 +1,7 @@
 # PUFIN Version 1.0 (First Edition)
 # PowerShell Universal File Integrity Monitor
 # Copyright (c) 2023 by Durgesh Shah (@darkoid)
-# Tested on Powershell Version 5.1.19041.1682
+# Tested on Powershell Version 5/6/7
 
 # Define the path to monitor
 $PathToMonitor = "testFolder\"
@@ -11,6 +11,9 @@ $BaseLine = "PUFIN_baseline.txt"
 
 # Define the path to store the log file
 $LogFilePath = "PUFIN_Log.txt"
+
+# Define wait between each scan in seconds
+$WaitTime = 1
 
 # Print Pufin on terminal
 $pufinArtFilePath = "pufin_art.txt"
@@ -71,7 +74,7 @@ elseif ($response -eq "B".ToUpper()) {
 
     # Begin (continuously) monitoring files with saved Baseline
     while ($true) {
-        Start-Sleep -Seconds 1
+        Start-Sleep -Seconds $WaitTime
         
         $files = Get-ChildItem -Path $PathToMonitor -File
         
