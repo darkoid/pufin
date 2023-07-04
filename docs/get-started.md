@@ -36,9 +36,9 @@ Now you are ready to run the script.
 
 ### For Windows (shown on windows 11)
 
-1. Goto the script `pufin.ps1` and click on run with powershell.
+1. Goto the script `pufin.ps1` and click on run with powershell as shown below or you can run it directly via powershell.
+
 <p align="center"><img src=/docs/assets/run-with-powershell.png></p>
-    or you can run it directly via powershell.
 
 2. For the first time running this application. We need to generate a baseline file to store file path and hash. Choose 'A'- (this will take time depending on the no of files in the selected location)
 
@@ -46,6 +46,6 @@ Now you are ready to run the script.
 
 3. Now rerun the script and select 'B'.
 
-<p align="center"><img src=/docs/assets/monitoring..png></p>
+<p align="center"><img src=/docs/assets/monitoring.png></p>
 
 Congratulations you are now ready to go, to verify that eveything is running smoothly make changes to the few files then navigate back to your application to see all the different warnings of file change or deletion or creation. Undo the changes to get rid of the warnings.
