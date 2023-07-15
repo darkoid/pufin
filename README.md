@@ -51,6 +51,13 @@ To customise the `pufin.ps1` script look at the [Configuration](config/variables
 
 - If you're fixing three bugs, you need to make three separate pull requests. If you're adding four new features, you need to make four separate pull requests. So on, and so forth.
 
+## Support this project
+
+- Star on [GitHub](https://github.com/darkoid/pufin)
+- Share via [Facebook](https://www.facebook.com/sharer.php?u=https://github.com/darkoid/pufin) and [Twitter](https://twitter.com/share?url=https://github.com/darkoid/pufin)
+- [Sponsor via GitHub](https://github.com/sponsors/darkoid) — support open source contributions on a regular basis
+- <a href="https://www.buymeacoffee.com/darkoid" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 61px !important;width: 217px !important;" ></a>
+
 ### License
 
 PUFIN is licensed under MIT License. Refer to [LICENSE](./LICENSE) for more information.
